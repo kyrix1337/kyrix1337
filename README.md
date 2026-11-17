@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://hizliresim.com/llnvst0q" width="145" alt="kyrix1337 logo" />
+<img src="https://i.hizliresim.com/llnvst0q.png" width="145" alt="kyrix1337 logo" />
 
 <h1>
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&duration=1&pause=999999&color=050054&center=true&vCenter=true&width=400&lines=kyrix1337" alt="kyrix1337" />
