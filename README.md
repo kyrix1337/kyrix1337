@@ -1,19 +1,19 @@
 
 <div align="center">
 
-<img src="https://hizliresim.com/llnvst0q" width="145" alt="kyrix1337" />
+<img src="https://i.hizliresim.com/fim1mwzn.png" width="145" alt="sworsxd logo" />
 
 <h1>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&duration=1&pause=999999&color=00FF66&center=true&vCenter=true&width=400&lines=sworsxd" alt="kyrix1337" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&duration=1&pause=999999&color=00FF66&center=true&vCenter=true&width=400&lines=sworsxd" alt="sworsxd" />
 </h1>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=SECURITY+RESEARCH;REVERSE+ENGINEERING;ANTI-CHEAT+ENGINEERING;WINDOWS+INTERNALS;SOFTWARE+DEVELOPMENT" alt="Typing Animation" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=00FF66)](https://github.com/kyrix1337)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=00FF66)](https://github.com/sworsxd)
 [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/jmc)
-[![Website](https://img.shields.io/badge/WEBSITE-020805?style=flat-square&logo=googlechrome&logoColor=00FF66)](https://kyrix.devs.surf)
+[![Website](https://img.shields.io/badge/WEBSITE-020805?style=flat-square&logo=googlechrome&logoColor=00FF66)](https://swors.devs.surf)
 
 </div>
 
@@ -28,7 +28,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.username = "kyrix1337"
+        self.username = "sworsxd"
         self.role = "Software Developer"
         self.interests = [
             "Security Research",
@@ -193,17 +193,17 @@ while True:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&duration=1&pause=999999&color=050054&center=true&vCenter=true&width=350&lines=08+%2F+SITE_%26_PORTFOLIO" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&duration=1&pause=999999&color=00FF66&center=true&vCenter=true&width=350&lines=08+%2F+SITE_%26_PORTFOLIO" />
 
 <br/>
 
-### <a href="https://kyrix.devs.surf" style="color:#050054;">kyrix.devs.surf</a>
+### <a href="https://swors.devs.surf" style="color:#00FF66;">swors.devs.surf</a>
 
 A personal space showcasing my work, projects, development interests and technical research.
 
 <br/>
 
-[![VISIT WEBSITE](https://img.shields.io/badge/VISIT_WEBSITE-020805?style=for-the-badge&logo=googlechrome&logoColor=050054)](https://kyrix.devs.surf)
+[![VISIT WEBSITE](https://img.shields.io/badge/VISIT_WEBSITE-020805?style=for-the-badge&logo=googlechrome&logoColor=00FF66)](https://swors.devs.surf)
 
 </div>
 
@@ -211,11 +211,11 @@ A personal space showcasing my work, projects, development interests and technic
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&duration=1&pause=999999&color=050054&center=true&vCenter=true&width=350&lines=09+%2F+GITHUB_ACTIVITY" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&duration=1&pause=999999&color=00FF66&center=true&vCenter=true&width=350&lines=09+%2F+GITHUB_ACTIVITY" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Vendicated&theme=highcontrast&hide_border=true&background=00000000&ring=050054&fire=050054&currStreakLabel=050054&sideLabels=050054&currStreakNum=050054&sideNums=050054&dates=00C853" alt="GitHub Streak Stats"/>
+<img src="https://streak-stats.demolab.com/?user=Vendicated&theme=highcontrast&hide_border=true&background=00000000&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=00FF66&currStreakNum=00FF66&sideNums=00FF66&dates=00C853" alt="GitHub Streak Stats"/>
 
 </div>
 
@@ -223,17 +223,17 @@ A personal space showcasing my work, projects, development interests and technic
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&duration=1&pause=999999&color=050054&center=true&vCenter=true&width=250&lines=10+%2F+CONNECT" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&duration=1&pause=999999&color=00FF66&center=true&vCenter=true&width=250&lines=10+%2F+CONNECT" />
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=050054)](https://github.com/kyrix1337)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=00FF66)](https://github.com/sworsxd)
 [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/jmc)
-[![Website](https://img.shields.io/badge/WEBSITE-020805?style=flat-square&logo=googlechrome&logoColor=050054)](https://kyrix.devs.surf)
+[![Website](https://img.shields.io/badge/WEBSITE-020805?style=flat-square&logo=googlechrome&logoColor=00FF66)](https://swors.devs.surf)
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=050054&center=true&vCenter=true&width=500&lines=THANKS+FOR+VISITING;STAY+CURIOUS.+KEEP+BUILDING." />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=THANKS+FOR+VISITING;STAY+CURIOUS.+KEEP+BUILDING." />
 
 <br/>
 
