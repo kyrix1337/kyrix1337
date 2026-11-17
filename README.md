@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://i.hizliresim.com/fim1mwzn.png" width="145" alt="sworsxd logo" />
@@ -25,7 +24,6 @@
 
 </div>
 
-```python
 class Developer:
     def __init__(self):
         self.username = "sworsxd"
@@ -40,7 +38,6 @@ class Developer:
 
     def status(self):
         return "Always researching, always building."
-```
 
 ---
 
@@ -62,7 +59,6 @@ class Developer:
 
 </div>
 
-```text
 > SECURITY_RESEARCH
   └─ Application security
   └─ System analysis
@@ -82,7 +78,6 @@ class Developer:
   └─ Operating system internals
   └─ Low-level programming
   └─ Digital forensics
-```
 
 ---
 
@@ -92,23 +87,21 @@ class Developer:
 
 </div>
 
-```yaml
 focus:
-  - Software Development
-  - Reverse Engineering
-  - Security Research
-  - Windows Internals
+- Software Development
+- Reverse Engineering
+- Security Research
+- Windows Internals
 
 environment:
   os: Windows
   editor: Visual Studio Code
 
 languages:
-  - Python
-  - JavaScript
-  - C++
-  - TypeScript
-```
+- Python
+- JavaScript
+- C++
+- TypeScript
 
 ---
 
@@ -118,7 +111,6 @@ languages:
 
 </div>
 
-```text
 > SYSTEM_ANALYSIS
   └─ Understanding software behavior
   └─ Exploring operating system internals
@@ -133,7 +125,6 @@ languages:
   └─ Building development tools
   └─ Designing application interfaces
   └─ Writing maintainable code
-```
 
 ---
 
@@ -147,7 +138,6 @@ languages:
 
 </div>
 
-```ini
 [ DEVELOPMENT ]
 Operating System = Windows
 Code Editor      = Visual Studio Code
@@ -158,7 +148,6 @@ Platform         = GitHub
 Clean Code          = Enabled
 Continuous Learning = Enabled
 Problem Solving     = Enabled
-```
 
 ---
 
@@ -175,13 +164,11 @@ Problem Solving     = Enabled
 
 </div>
 
-```python
 while True:
     research()
     analyze()
     experiment()
     improve()
-```
 
 <div align="center">
 
@@ -215,7 +202,7 @@ A personal space showcasing my work, projects, development interests and technic
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Vendicated&theme=highcontrast&hide_border=true&background=00000000&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=00FF66&currStreakNum=00FF66&sideNums=00FF66&dates=00C853" alt="GitHub Streak Stats"/>
+<img src="https://streak-stats.demolab.com/?user=sworsxd&theme=highcontrast&hide_border=true&background=00000000&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=00FF66&currStreakNum=00FF66&sideNums=00FF66&dates=00C853" alt="GitHub Streak Stats"/>
 
 </div>
 
